@@ -1,2 +1,2 @@
-# csswork_day4_homework
-layouts and navigation
+# site_template
+Basic site template for UI Students to use for new projects

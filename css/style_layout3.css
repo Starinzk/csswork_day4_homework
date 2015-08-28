@@ -1,0 +1,84 @@
+/*css file*/
+
+.wrapper{
+
+	width: 775px;
+	margin: 0 auto;
+}
+.red{
+		background-color: #f60005;
+		height: 100px;
+		clear: both;
+		margin-bottom: 20px;
+
+}
+#blue{
+	background-color: #49baf2;
+	height: 350px;
+	width: 516.66px;
+	float: left;
+	margin-bottom: 20px;
+}
+#yellow{ 
+	background-color: #f8ff28;
+	height: 350px;
+	width: 258.333px;
+	float: left;
+	margin-bottom: 20px;
+}
+
+
+#orange{
+	background-color: #e96526;
+	height: 320px;
+	width: 250px;
+	float: left;
+	margin:15px 0px 15px 15px;
+	
+}
+#purple{
+	background-color: #8b7bbb;
+	height: 325px;
+	width: 105px;
+	float: left;
+	margin: 12px 0px 0px 25px;
+}
+
+
+#green{
+	background-color: #3fbb4d;
+	height: 325px;
+	width: 105px;
+	float: left;
+	margin: 12px 0px 0px 0px;
+
+}
+
+#pink{
+	background-color: #f094c1;
+	height: 275px;
+	width: 775px;
+	float: left;
+	margin-bottom: 20px;
+
+}
+
+#purple2{
+	background-color: #8b7bbb;
+	height: 240px;
+	width: 370px;
+	float: left;
+	margin:15px 0px 0px 18px;
+
+}
+
+#green2{
+	background-color: #3fbb4d;
+	height: 240px;
+	width: 370px;
+	float: left;
+	margin:15px 0px 0px 0px;
+
+}
+
+
